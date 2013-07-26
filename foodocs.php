@@ -19,3 +19,5 @@ if ( !class_exists('FooDocs') ) {
 		}
 	}
 }
+
+new FooDocs();
