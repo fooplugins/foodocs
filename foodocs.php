@@ -7,3 +7,9 @@ Author: FooPlugins
 Author URI: http://fooplugins.com
 Version: 0.1-alpha
 */
+
+if ( !class_exists('FooDocs') ) {
+	class FooDocs {
+
+	}
+}
