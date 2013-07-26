@@ -20,4 +20,4 @@ if ( !class_exists('FooDocs') ) {
 	}
 }
 
-new FooDocs();
+$GLOBALS['FooDocs'] = new FooDocs();
