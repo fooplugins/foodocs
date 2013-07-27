@@ -28,7 +28,8 @@ if ( !class_exists('FooDocs') ) {
 				'not_found' => __( 'No documentation found', 'foodocs' ),
 				'not_found_in_trash' => __( 'No documentation found in Trash', 'foodocs' ),
 				'parent_item_colon' => __( 'Parent Documentation:', 'foodocs' ),
-				'menu_name' => __( 'Documentation', 'foodocs' ),
+				'menu_name' => __( 'FooDocs', 'foodocs' ),
+				'all_items' => __( 'Documentation', 'foodocs' )
 			);
 
 			$args = array( 
