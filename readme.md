@@ -1,12 +1,20 @@
 # FooDocs #
-**Contributors:** bradvin,webdevmattcrom  
-**Donate link:** http://fooplugins.com/donate  
-**Tags:** comments, spam  
-**Requires at least:** 3.5.1  
-**Tested up to:** 3.6  
-**Stable tag:** 1.0.0  
-**License:** GPLv2 or later  
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
+**Contributors:** bradvin, webdevmattcrom
+
+**Donate link:** http://fooplugins.com/donate
+
+**Tags:** documentation, hierarchy, custom post type, syntax highlighting
+
+**Requires at least:** 3.5.1
+
+**Tested up to:** 3.6
+
+**Stable tag:** 1.0.0
+
+**License:** GPLv2 or later
+
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html
+
 
 Organized documentation for your digital products
 
@@ -19,6 +27,7 @@ Easily create and manage documentation for your digital products in a central lo
 *   Manage all your documentation using a custom post type.
 *   Include documentation on any page using a simple shortcode.
 *   Include a table of contents in your sidebar with a handy widget.
+*   built-in syntax highlighting.
 
 ## Installation ##
 
