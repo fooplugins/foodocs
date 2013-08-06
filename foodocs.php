@@ -16,7 +16,7 @@ if ( !class_exists('FooDocs') ) {
 		}
 
 		function register_custom_post_type() {
-			$labels = array( 
+			$labels = array(
 				'name' => __( 'Documentation', 'foodocs' ),
 				'singular_name' => __( 'Documentation', 'foodocs' ),
 				'add_new' => __( 'Add New', 'foodocs' ),
@@ -32,10 +32,10 @@ if ( !class_exists('FooDocs') ) {
 				'all_items' => __( 'Documentation', 'foodocs' )
 			);
 
-			$args = array( 
+			$args = array(
 				'labels' => $labels,
 				'hierarchical' => true,
-				'description' => 'Documentation for a your digital products',
+				'description' => __( 'Documentation for a your digital products', 'foodocs' ),
 				'supports' => array( 'title', 'editor', 'author', 'thumbnail', 'custom-fields', 'comments' ),
 				'public' => true,
 				'show_ui' => true,
