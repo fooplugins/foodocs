@@ -27,7 +27,7 @@ Easily create and manage documentation for your digital products in a central lo
 *   Manage all your documentation using a custom post type.
 *   Include documentation on any page using a simple shortcode.
 *   Include a table of contents in your sidebar with a handy widget.
-*   built-in syntax highlighting.
+*   Built-in syntax highlighting.
 
 ## Installation ##
 
@@ -36,7 +36,7 @@ Easily create and manage documentation for your digital products in a central lo
 
 ## Frequently Asked Questions ##
 
-There are no FAQ just yet.
+There are no FAQs just yet.
 
 ## Changelog ##
 
